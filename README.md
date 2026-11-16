@@ -2,6 +2,8 @@
 
 通过三步动手实验学习 Go 的 fan-out 并发模式，参考真实项目 `../gmaker/internal/engine/engine_dispatch.go` 的实现。
 
+> 本项目目录为 `go-fan-out/`。
+
 ## 三步
 
 | 目录     | 主题                 | 核心内容                                        |
@@ -26,3 +28,4 @@
 ## 之后
 
 可以继续 `../go-concurrency/` 课程，覆盖 Mutex、atomic、context、errgroup 等更多并发主题。
+
